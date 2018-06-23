@@ -1,0 +1,10 @@
+Package: SimScaling
+Type: Package
+Title: Simultaneous Scaling of Roll Call and Bill Text Data
+Version: 0.1.0
+Author: Kevin McAlister
+Maintainer: Kevin McAlister <kamcal@umich.edu>
+Description: A package for simultaneously scaling roll call voting data and the respective bills that are being considered.  Uses information from the text of bills to simultaneously scale text and binary vote data and creates "concept consistent" spaces.
+License: MIT
+Encoding: UTF-8
+LazyData: true
